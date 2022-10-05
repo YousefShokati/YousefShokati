@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T07:26:43.196Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nhD62x8c6YQyghXBdM4t" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-05T07:35:55.471Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="fqJ5Pt4R9K1wltrsWcLT" version="20.4.0" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="2154" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -79,8 +79,86 @@
         <mxCell id="ua7uwXk_rm-2TfZKkDLM-26" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="85" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-29" target="ua7uwXk_rm-2TfZKkDLM-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="350" />
+              <mxPoint x="-140" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ua7uwXk_rm-2TfZKkDLM-29" value="Procurment Recieves &amp;amp; Create PO" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-31" target="ua7uwXk_rm-2TfZKkDLM-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="410" />
+              <mxPoint x="-10" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-31" value="Investigate Vendors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-33" target="ua7uwXk_rm-2TfZKkDLM-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-33" target="ua7uwXk_rm-2TfZKkDLM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-33" value="If Needs RFQ" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="365" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-35" target="ua7uwXk_rm-2TfZKkDLM-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-35" value="Send PO To Vendor" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-37" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-38" target="ua7uwXk_rm-2TfZKkDLM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-38" value="Fill RFQ Forms" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-40" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-41" target="ua7uwXk_rm-2TfZKkDLM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-41" value="Send RFQ To Management" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-43" target="ua7uwXk_rm-2TfZKkDLM-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-43" value="Select Vendor Based On RFQ" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-45" value="Send Selected RFQ To Procurment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ua7uwXk_rm-2TfZKkDLM-51" target="ua7uwXk_rm-2TfZKkDLM-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-51" value="Register Recieve Date And Process steps" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ua7uwXk_rm-2TfZKkDLM-55" value="End" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="660" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
